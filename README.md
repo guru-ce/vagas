@@ -23,6 +23,7 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, ped
 ________
 #### Repositórios do Guru-CE
 
+- [Fórum](https://github.com/guru-ce/forum)
 - [Vagas](https://github.com/guru-ce/vagas)
 
 ##### Créditos
